@@ -1,1 +1,1 @@
-# atmos-river
+# AtmosRiver
